@@ -1,0 +1,9 @@
+<Configuration>
+  <vGPU>Enable</vGPU>
+  <Networking>Enable</Networking>
+  <ProtectedClient>Enable</ProtectedClient>
+  <ClipboardRedirection>Disable</ClipboardRedirection>
+  <LogonCommand>
+    <Command>"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" -kiosk "https://gacquer.com/golivego/the_hu.html" --edge-kiosk-type=fullscreen --no-first-run --autoplay-policy=no-user-gesture-required</Command>
+  </LogonCommand>
+</Configuration>
